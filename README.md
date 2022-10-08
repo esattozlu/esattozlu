@@ -7,9 +7,9 @@ Experienced in digital product management in large and medium-sized companies an
 
 <h1 align="center">Education 🧑‍🎓</h1>
 
--📍Sabanci University - Industrial Engineer 🎓 2013 - 2018
+- 📍Sabanci University - Industrial Engineer 🎓 2013 - 2018
 
-
+<h1 align="center">Hi 👋, I'm Esat Tozlu</h1>
 
 
 - 🌱 I’m currently working on ** IOS Development**
