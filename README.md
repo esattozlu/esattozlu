@@ -20,4 +20,4 @@ Experienced in digital product management in large and medium-sized companies an
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esattozlu&show_icons=true&locale=en" alt="esattozlu" /></p>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=esattozlu&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
