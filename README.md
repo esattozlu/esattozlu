@@ -6,7 +6,7 @@ Experienced in digital product management in large and medium-sized companies an
 
 <h1 align="center">Education 🧑‍🎓</h1>
 
-- 📍Sabanci University - Industrial Engineering 🎓 2013 - 2018
+- <h3 align="center">📍Sabanci University - Industrial Engineering 🎓 2013 - 2018 </h3>
 
 <h1 align="center">Currently ⏳</h1>
 
