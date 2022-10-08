@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Esat Tozlu
 <h1 align="center">Hi 👋, I'm Esat Tozlu</h1>
-<h3 align="center">A passionate IOS Developer, Former Product Manager</h3>
+<h3 align="center">A passionate  IOS Developer, ⏎ Former Product Manager</h3>
 
 Experienced in digital product management in large and medium-sized companies and established own start-up as a Co- Founder and Product Manager. During this time, the software learning process, which started as a hobby, attracted attention and wanted to specialize in this subject. Started with HTML, Css, JavaScript and C#, decided to focus on mobile development and started learning Swift on the way to becoming an IOS Developer. Wants to continue his career as an IOS Developer.
 
@@ -9,9 +9,8 @@ Experienced in digital product management in large and medium-sized companies an
 
 -📍Sabanci University - Industrial Engineer 🎓 2013 - 2018
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=esattozlu&label=Profile%20views&color=0e75b6&style=flat" alt="esattozlu" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=esattozlu&label=Profile%20views&color=0e75b6&style=flat" alt="esattozlu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esattozlu" alt="esattozlu" /></a> </p>
 
 - 🌱 I’m currently learning **IOS**
 
