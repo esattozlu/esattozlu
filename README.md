@@ -10,7 +10,7 @@ Experienced in digital product management in large and medium-sized companies an
 - 📍Sabanci University - Industrial Engineer 🎓 2013 - 2018
 
 <h1 align="center">Currently ⏳</h1>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esattozlu&show_icons=true&locale=en&layout=compact" alt="esattozlu" /></p>
+
 - 🌱 I’m currently working on ** IOS Development**
 
 - 📫 How to reach me **esattozlu@gmail.com**
@@ -22,19 +22,3 @@ Experienced in digital product management in large and medium-sized companies an
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esattozlu&show_icons=true&locale=en" alt="esattozlu" /></p>
-
-
-<!--
-**esattozlu/esattozlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
