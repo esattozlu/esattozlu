@@ -1,4 +1,3 @@
-### Hi there 👋 I'm Esat Tozlu
 <h1 align="center">Hi 👋, I'm Esat Tozlu</h1>
 <h3 align="center">A passionate  IOS Developer, ⏎ Former Product Manager</h3>
 
